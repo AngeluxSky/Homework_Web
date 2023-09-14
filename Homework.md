@@ -1,1 +1,6 @@
-![Alt text](<Screenshot 2023-09-15 010230.png>)
+**Структура страницы**
+
+Header:
+
+
+Content:
