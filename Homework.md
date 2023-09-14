@@ -21,6 +21,7 @@ Footer:
 1. Изменяю цвет текста и фона кнопки "Главная".
 ---
 До:
+
 ![Alt text](<image/Before color.png>)
 
 **После:**
@@ -30,6 +31,7 @@ Footer:
 2. Вырезаю блок "Самое популярное" и "Самое комментируемое".
 ---
 До:
+
 ![Alt text](<image/Before delete and redact.png>)
 
 **После:**
@@ -39,6 +41,7 @@ Footer:
 3. Меняю картинки и заголовки на абсурдные.
 ---
 До:
+
 ![Alt text](<image/Before switch photo.png>)
 
 **После:**
